@@ -18,6 +18,10 @@ Vermist
 
 ### Landmarks
 
+The Tower
+
+The Lich's Layer
+
 ## History
 
 Mythology
