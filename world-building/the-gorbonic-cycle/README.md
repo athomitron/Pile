@@ -20,11 +20,17 @@ Mythology
 
 
 
+
+
 ## Characters
 
-Bestiary
+Bojo the wizard
 
-Player Characters
+### Bestiary
+
+The Hydra
+
+### Player Characters
 
 
 
