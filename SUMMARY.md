@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Index](README.md)
+
+## World Building
+
+* [The Gorbonic Cycle](world-building/the-gorbonic-cycle.md)
 
