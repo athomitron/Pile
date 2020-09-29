@@ -4,5 +4,6 @@
 
 ## World Building
 
-* [The Gorbonic Cycle](world-building/the-gorbonic-cycle.md)
+* [The Gorbonic Cycle](world-building/the-gorbonic-cycle/README.md)
+  * [Maelstrom](world-building/the-gorbonic-cycle/maelstrom.md)
 
