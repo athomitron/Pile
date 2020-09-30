@@ -9,3 +9,7 @@
   * [Maelstrom](world-building/the-gorbonic-cycle/maelstrom.md)
 * [The Endless Shore](world-building/the-endless-shore.md)
 
+## Games
+
+* [Games](games/games.md)
+
