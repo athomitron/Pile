@@ -4,7 +4,7 @@ description: >-
   stories
 ---
 
-# Index
+# Welcome to the Pile
 
 The Gorbonic Cycle
 

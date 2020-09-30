@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Index](README.md)
+* [Welcome to the Pile](README.md)
 
 ## World Building
 

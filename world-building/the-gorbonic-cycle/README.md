@@ -26,6 +26,12 @@ The Lich's Layer
 
 Mythology
 
+Er
+
+Melkor
+
+Gorbo
+
 
 
 
