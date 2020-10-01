@@ -16,9 +16,13 @@ Inspirations and references
 
 Herculean myth
 
+Fungus
+
+Jelly Fish
+
 aspen trees
 
-Modernity
+Monster of Modernity- Statism, Capitalism, Communism, Fascism
 
 The internet
 
