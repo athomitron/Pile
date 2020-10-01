@@ -26,3 +26,13 @@ Monster of Modernity- Statism, Capitalism, Communism, Fascism
 
 The internet
 
+
+
+notes:
+
+Modernism \( the arrival of linear thought in the west\) Is a monster which consumes all it can.
+
+It sprouts forth ideological heads from its organs of arts and sciences. These heads are terrible and as capitalism seeks to devour, others such as Marxism, fascism, theocracy and despotism each grow out and spread forth, nawing and nashing one another.
+
+We cannot cut off just one head or another will regrow
+
