@@ -8,11 +8,11 @@ description: This is a setting for a Tolkienesque/ Dnd story
 
 ### Continents and Landmasses
 
-Dagger Island
+[Dagger Island](dagger-island.md)
 
 ### Cities
 
-Maelstrom
+[Maelstrom](maelstrom.md)
 
 Vermist
 
@@ -44,7 +44,7 @@ Er - Primary Creator god of the World, the wellspring,
 
 Melkor - The Dominator, the unyielding, the enemy
 
-Gorbo - The idiot god, the usurper 
+[Gorbo ](gorbo.md)- The idiot god, the usurper 
 
 
 
