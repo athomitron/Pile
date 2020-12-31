@@ -1,4 +1,4 @@
-The Conceptual Game
+The Conceptual Game (Alpha version 001)
 {needs better name to entice players to play}
 
 Players-
@@ -15,12 +15,17 @@ The winner of a contest is whoever has the highest level.
 If both players are the same level, the player with their birthday coming soonest is the winner.
 each time the player beats another player in a contest, the winner may invite a new player to join the game and gain one level. Players may only invite an equal number of new players as their current level minus one (unless they are the first player).
 the loser gains -Charity-(.5) worth of a level (but does not gain the level until they win enough charity points to reach a whole number.
+-Charity- may be updated in the future to a new ratio (always less than or equal to .5)
  
-Players must record their contests, levels and invites in a shared leger.
+Players must record their contests, levels and invites in a shared leger. (potentally to be split off into a future repository)
 
-This is the leger
-1st player- Andrew SimonThomas. Level 1.  
+This is the player leger = 1 player (chronological) Date - Name - current level (update after each consecutive win and new player added) - Invited by (player name)
+12/31/2020 - 1st player- Andrew SimonThomas- Level 1- null  
 
+This is the record of contests = Date - Name, Level - Name, Level - Winner 
+
+This is the update log = Date - Name - Rows created - Rows Edited
+12/31/2020 -Andrewsimonthomas - created rows 1-28
 
 
 
