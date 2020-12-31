@@ -1,0 +1,62 @@
+The druid lands in the pit and must fight off the Hydra, else it will escape and consume the worlds.
+
+Track:
+Times played
+Deaths after X
+Deaths after Y
+Deaths after Z
+Time played total
+highest number of hydra heads active
+
+Start
+Title
+Start Menu 
+      Start Game
+      Options
+      Quit
+      
+Start Game
+      players start at level 1
+      1 Tree randomly spawns
+      Each time a Hydra is killed, Level + 1
+      (Level + raises various difficulty modifiers and spawns different ranges of enemie)
+      When the player is killed - replay or quit
+      When the player pauses - unpause, options, quit
+      
+Options
+      Game
+          Difficulty modifiers
+          Accessibility
+          Reset scores
+      Sound
+      Controls
+ 
+ 
+ 
+ Mechanics and Controls
+ WASD and Mouse aim
+ gamepad
+ 1st person Quake style shooter
+ Wand - Button A to shoot
+      - Button B to attract (interactable)
+      - Hold B click A to mark target
+      - Hold B and release A to launch triggered material
+
+Modifiers     
+Wand - fire damage
+     - fire rate
+     - attractor range
+     - attractor power
+     - speed
+     - jump
+     
+     - Enemy HP
+     - Enemy Speed
+     - Enemy Damage
+     - # of Enemies spawing
+     - Rate of Enemies Spawning
+     
+ 
+ 
+
+      
